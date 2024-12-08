@@ -1,0 +1,61 @@
+.tetromino {
+    width: 100%;
+    height: 100%;
+    border-radius: 1px;
+}
+.tetrominoJ {
+    background-color: #0341ae;
+}
+
+.tetrominoJ_ghost {
+    background-color: #0341ae;
+    opacity: 0.2;
+}
+
+.tetrominoL {
+    background-color: #ff9717;
+}
+.tetrominoL_ghost {
+    background-color: #ff9717;
+    opacity: 0.2;
+}
+
+.tetrominoZ {
+    background-color: #ff3213;
+}
+.tetrominoZ_ghost {
+    background-color: #ff3213;
+    opacity: 0.2;
+}
+
+.tetrominoI {
+    background-color: rgb(0, 238, 255);
+}
+.tetrominoI_ghost {
+    background-color: rgb(0, 238, 255);
+    opacity: 0.2;
+}
+
+.tetrominoS {
+    background-color: #72cb3b;
+}
+.tetrominoS_ghost {
+    background-color: #72cb3b;
+    opacity: 0.2;
+}
+
+.tetrominoT {
+    background-color: #82007b;
+}
+.tetrominoT_ghost {
+    background-color: #82007b;
+    opacity: 0.2;
+}
+
+.tetrominoO {
+    background-color: #ffd500;
+}
+.tetrominoO_ghost {
+    background-color: #ffd500;
+    opacity: 0.2;
+}
